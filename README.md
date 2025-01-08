@@ -8,7 +8,7 @@
         <tr style="height: 29px;">
             <td style="width: 33.2845%; height: 29px;">01/06 (Lecture 1)</td>
             <td style="width: 33.2845%; height: 29px;">Linear models, feature space representations</td>
-            <td style="width: 33.2845%; height: 29px;"></td>
+            <td style="width: 33.2845%; height: 29px;">Kernel functions as similarity measures on data space, binary classification. Hofmann, Scholkopf, Smola 2008; MRT 2018</td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2845%; height: 53px;">01/08 (Lecture 2)</td>
