@@ -33,3 +33,4 @@ plt.show()
 
 # Exercise: show that the perceptron converges for a linearly separable dataset. Verify theorem on speed of convergence
 #2. for the make_circles dataset, use a kernel perceptron to find the best separating hyperplane.
+# https://scikit-learn.org/dev/modules/generated/sklearn.datasets.make_circles.html#sklearn.datasets.make_circles
