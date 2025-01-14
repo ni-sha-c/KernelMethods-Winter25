@@ -12,18 +12,18 @@
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2845%; height: 53px;">01/08 (Lecture 2)</td>
-            <td style="width: 33.2845%; height: 53px;">Bayesian inference, gaussian processes</td>
-            <td style="width: 33.2845%; height: 53px;"></td>
+            <td style="width: 33.2845%; height: 53px;">Linear models for binary classification, perceptron algorithm</td>
+            <td style="width: 33.2845%; height: 53px;">Introducing kernels into mean-based classifier; perceptron convergence under linear separability</td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2845%; height: 29px;">01/13 (Lecture 3)</td>
-            <td style="width: 33.2845%; height: 29px;">SVM, kernel SVM, margin theory</td>
-            <td style="width: 33.2845%; height: 29px;"></td>
+            <td style="width: 33.2845%; height: 29px;">Kernel perceptron and margin theory</td>
+            <td style="width: 33.2845%; height: 29px;">Code set up for perceptron. Exercise is to kernelize the perceptron; see toy_classification.py</td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2845%; height: 29px;">01/15 (Lecture 4)</td>
             <td style="width: 33.2845%; height: 29px;">Mercer's theorem, representer theorem, RKHS</td>
-            <td style="width: 33.2845%; height: 29px;">Will be on Zoom on 01/17</td>
+            <td style="width: 33.2845%; height: 29px;"></td>
         </tr>
         <tr style="height: 55px;">
             <td style="width: 33.2845%; height: 55px;">01/20 (Lecture 5)</td>
@@ -120,7 +120,7 @@
 <p>&nbsp;</p>
 <p><span style="font-size: 24pt;">References</span></p>
 <p><span style="font-size: 14pt;">1.&nbsp; <a class="inline_disabled" href="https://probml.github.io/pml-book/book2.html" target="_blank" rel="noopener">Probabilistic Machine Learning,</a> Kevin Murphy, 2024</span></p>
-<p><span style="font-size: 14pt;">2. <a class="inline_disabled" href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank" rel="noopener">Foundations of Machine Learning</a>, Mohri, Rohstamizadeh, Talwalkar, 2018</span></p>
+<p><span style="font-size: 14pt;">2. <a class="inline_disabled" href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank" rel="noopener">Foundations of Machine Learning</a>, Mohri, Rohstamizadeh, Talwalkar, 2018 (MRT 2018)<br /></span></p>
 <p><span style="font-size: 14pt;">3. Haussler, David. <a class="inline_disabled" title="Link" href="https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=5ee0d8aeb2cb01ef4d8a858d234e72a7400c03ac" target="_blank" rel="noopener">Convolution kernels on discrete structures.</a>Vol. 646. Technical report, Department of Computer Science, University of California at Santa Cruz, 1999.</span></p>
 <p><span style="font-size: 14pt;">4.&nbsp; <a class="inline_disabled" href="https://projecteuclid.org/journals/annals-of-statistics/volume-36/issue-3/Kernel-methods-in-machine-learning/10.1214/009053607000000677.full" target="_blank" rel="noopener">Kernel methods in machine learning</a>, Hofmann, Scholkopf, Smola, 2008</span></p>
 <p><span style="font-size: 14pt;">5. &nbsp;Aronszajn, N. <a class="inline_disabled" href="https://doi.org/10.2307/1990404" target="_blank" rel="noopener">Theory of reproducing kernels</a>. <i>Trans. Amer. Math. Soc</i>. 1950</span></p>
