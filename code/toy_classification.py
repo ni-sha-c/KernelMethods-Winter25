@@ -18,6 +18,7 @@ for i in range(100):
     w = perceptron_one_step(x, y, w)
 
 
+
 w1, w2, b = w
 fig, ax = plt.subplots()
 ax.scatter(X[:,0], X[:,1],c=Y,s=10.0,cmap="jet")

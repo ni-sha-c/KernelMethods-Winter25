@@ -58,6 +58,8 @@ ax.yaxis.set_tick_params(labelsize=24)
 ax.set_xlabel("center of mass - x", fontsize=24)
 ax.set_ylabel("center of mass - y", fontsize=24)
 """
+
+"""
 bias = 0
 n_p = 0
 n_m = 0
@@ -69,7 +71,7 @@ for i, data_i in enumerate(train_dataset):
     else:
         n_m += 1
 #for i, data_i in enumerate(train_dataset):
-
+"""
      
 
 """
@@ -83,7 +85,7 @@ class BinaryClassifier(nn.Module):
     def __init__(self):
         super(BinaryClassifier, self).__init__()
         self.flatten = nn.Flatten()
-        self.fc1 = nn.Linear(28 * 28, 1)
+        self.fc1 = nn.Linear(28 * 28, 64)
         self.bias = nn.Parameter(torch.tensor(0.0))
         #self.fc2 = nn.Linear(64, 64)
         #self.fc3 = nn.Linear(64, 1)
