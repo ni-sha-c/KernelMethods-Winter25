@@ -22,21 +22,21 @@
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2845%; height: 29px;">01/15 (Lecture 4)</td>
-            <td style="width: 33.2845%; height: 29px;">Mercer's theorem, representer theorem, RKHS</td>
+            <td style="width: 33.2845%; height: 29px;">PD kernels, kernel trick, convex optimization</td>
             <td style="width: 33.2845%; height: 29px;"></td>
         </tr>
         <tr style="height: 55px;">
             <td style="width: 33.2845%; height: 55px;">01/20 (Lecture 5)</td>
-            <td style="width: 33.2845%; height: 55px;">Kernel SVM, generalization</td>
-            <td style="width: 33.2845%; height: 55px;"></td>
+            <td style="width: 33.2845%; height: 55px;">Kernel SVM, KKT conditions</td>
+            <td style="width: 33.2845%; height: 55px;">Ch 2 of text, Ch 6 of Mohri</td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2845%; height: 53px;">01/22 (Lecture 6)</td>
-            <td style="width: 33.2845%; height: 53px;">More on kernel regression, kernel trick</td>
-            <td style="width: 33.2845%; height: 53px;"></td>
+            <td style="width: 33.2845%; height: 53px;">soft SVM, finite-dimensional specialization of Mercer's result</td>
+            <td style="width: 33.2845%; height: 53px;">Ch 2 of text, Ch 6 of Mohri&nbsp;</td>
         </tr>
         <tr style="height: 53px;">
-            <td style="width: 33.2845%; height: 53px;">01/27 (Lecture 7) -&gt; 01/30</td>
+            <td style="width: 33.2845%; height: 53px;">01/29 (Lecture 7)</td>
             <td style="width: 33.2845%; height: 53px;">Kernel function spaces, examples</td>
             <td style="width: 33.2845%; height: 53px;"></td>
         </tr>
