@@ -36,23 +36,23 @@
             <td style="width: 33.2845%; height: 53px;">Ch 2 of text, Ch 6 of Mohri&nbsp;</td>
         </tr>
         <tr style="height: 53px;">
-            <td style="width: 33.2845%; height: 53px;">01/29 (Lecture 7)</td>
-            <td style="width: 33.2845%; height: 53px;">Kernel function spaces, examples</td>
+            <td style="width: 33.2845%; height: 53px;">01/27 (Lecture 7)</td>
+            <td style="width: 33.2845%; height: 53px;">Introduction to learning theory, empirical risk minimization</td>
             <td style="width: 33.2845%; height: 53px;"></td>
         </tr>
         <tr style="height: 101px;">
-            <td style="width: 33.2845%; height: 101px;">01/29 (Lecture 8) -&gt; 01/31</td>
-            <td style="width: 33.2845%; height: 101px;">Kernels in sampling, independence tests, conditional sampling, density estimation</td>
+            <td style="width: 33.2845%; height: 101px;">01/29 (Lecture 8)</td>
+            <td style="width: 33.2845%; height: 101px;">Generalization bounds for finite hypothesis classes</td>
             <td style="width: 33.2845%; height: 101px;"></td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2845%; height: 53px;">02/03 (Lecture 9)</td>
-            <td style="width: 33.2845%; height: 53px;">Kernels in generative modeling, kernel PCA</td>
+            <td style="width: 33.2845%; height: 53px;">Linear regression, least squares problems -- optimization and linear algebraic viewpoints</td>
             <td style="width: 33.2845%; height: 53px;"></td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2845%; height: 29px;">02/05 (Lecture 10)</td>
-            <td style="width: 33.2845%; height: 29px;">Deep learning theory and kernel regression -- NTK</td>
+            <td style="width: 33.2845%; height: 29px;">Reproducing kernel Hilbert spaces: proof of existence/construction</td>
             <td style="width: 33.2845%; height: 29px;"></td>
         </tr>
         <tr style="height: 53px;">
