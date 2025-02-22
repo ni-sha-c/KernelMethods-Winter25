@@ -57,17 +57,17 @@
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2845%; height: 53px;">02/10 (Lecture 11)</td>
-            <td style="width: 33.2845%; height: 53px;">Deep learning theory and kernel regression -- NTK</td>
+            <td style="width: 33.2845%; height: 53px;">Recall Mercer's theorem; connection between RKHS and Mercer feature maps</td>
             <td style="width: 33.2845%; height: 53px;"></td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 33.2845%; height: 29px;">02/12 (Lecture 12)</td>
-            <td style="width: 33.2845%; height: 29px;">Learning kernels, kernel design</td>
+            <td style="width: 33.2845%; height: 29px;">Feature maps continued, regularization and connection to generalization</td>
             <td style="width: 33.2845%; height: 29px;"></td>
         </tr>
         <tr style="height: 53px;">
             <td style="width: 33.2845%; height: 53px;">02/17 (Lecture 13)</td>
-            <td style="width: 33.2845%; height: 53px;">Kernels in PDEs, kernels in dynamical systems</td>
+            <td style="width: 33.2845%; height: 53px;">Kernel integral operator, regularization, representer theorem</td>
             <td style="width: 33.2845%; height: 53px;"></td>
         </tr>
         <tr style="height: 29px;">
